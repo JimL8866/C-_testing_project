@@ -1,0 +1,25 @@
+﻿####################### Spartan Resources ##################################################################################################
+#
+#  Email Support:.................. !ALLGDDevOpsTestAutomationRequests@computershare.com  
+#
+#  Spartan Wiki:................... https://dev.azure.com/CTS-Edison/Community/_wiki/wikis/Community.wiki
+#								
+#  Spartan\Test Automation......... http://go.cshare.net/communities/devops/DevOps%20Resources/Forms/AllItems.aspx?RootFolder=%2fcommunities%2fdevops%2fDevOps%20Resources%2fTestAutomationTrainingResources&FolderCTID=0x012000C4E49F5B87BA6344A88C18DFA56EB559
+#  Training
+#
+#  Spartan Open Source Location:... https://dev.azure.com/CTS-Edison/Community/_git/Spartan
+#
+#	  
+#  Spartan Sample Project:......... https://dev.azure.com/CTS-Edison/Community/_git/Spartan.Sample
+#										Test project containing examples of:
+#											- Using Spartan with Page Object Models
+#											- Using Spartan with every object type
+#											- SpecFlow Feature Files
+#											- SpecFlow Step Definition files interacting with Page Object Models
+#
+#  SpecFlow Tips / Tricks:......... https://automationpanda.com/2017/01/30/bdd-101-writing-good-gherkin/ 
+#
+#  GD Spartan Discussion board:.... http://go.cshare.net/teams/DevOps/Automation/Lists/GDspartan%20Discussion%20Board/AllItems.aspx 
+#
+#  CTS-Edison Packages Feed:....... https://pkgs.dev.azure.com/CTS-Edison/_packaging/CTS-Edison/nuget/v3/index.json
+#

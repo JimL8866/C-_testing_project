@@ -1,0 +1,57 @@
+﻿
+WELCOME TO SPARTAN. 
+PLEASE READ!  espeically if this is your 1st time creating a new Spartan project.
+==================================================================================================
+
+                         /\     /\
+                        (_ \   (  \
+                        (_ `\iRBNMMbn.
+                         \_  \VAPRBNMMb
+                           \o_)lI<= (=\
+                          / `   ) , _\ )
+                          )    /   (_(/
+                         /_ __( \ __ _|
+                            _|     |_
+                   ,edMMNBRB)\ \_  /(PRBNMMbn.
+                  dMMNBRPAV/o(_____)o\VAPRBNMMb
+                 fMMWBRYIli\ o  o  o /rlIPRBWMMj
+                 MMBRRSZIlti+._.-._.+ilIZSRRBMMM
+                 /_o__o_/KZYI0lLRBNWMMMN\_o___o_\
+                /_____/flZJlDYTPRKBBNWMM \ ___( \
+          NNBR0PRRBNMMMMMMMlIPZSKRNWMMMV  \__._\ \
+          NMBRR00PRBNNMMMMM_o___o___o__/   )_ __)o)
+          NMMBRR00PRRBNNMMM___o___o___/    /___/ /
+          NMMBBRR00PRRBNNMM_/\_/\_/\_(  __/___x)/
+          NMMBBRR00PRRBNNMM \/ \/ \/ __ )    /(`
+        __NMMBBRR00PRRBNNMM_________|_ /   _')
+       /__        ________        ___)(<  (====.
+       \_____________________________)_\ __\---'
+            VMBBR00RBNMNV           |__|\/
+             lMBRR00RNMV                     
+              VMB00BMNV     
+               VMB0BMV    
+                b'ger               
+                 VMV      
+                  V       
+
+ .oooooo..o                                   .                              
+d8P'    `Y8                                 .o8                              
+Y88bo.      oo.ooooo.   .oooo.   oooo d8b .o888oo  .oooo.   ooo. .oo.        
+ `"Y8888o.   888' `88b `P  )88b  `888""8P   888   `P  )88b  `888P"Y88b       
+     `"Y88b  888   888  .oP"888   888       888    .oP"888   888   888       
+oo     .d8P  888   888 d8(  888   888       888 . d8(  888   888   888       
+8""88888P'   888bod8P' `Y888""8o d888b      "888" `Y888""8o o888o o888o      
+             888                                                             
+            o888o     
+
+Spartan New Project Instructions
+==================================================================================================
+
+Please read and follow the instructions from the Wiki link below for setting up a new test project from a Spartan Template
+
+https://dev.azure.com/CTS-Edison/Community/_wiki/wikis/Community.wiki/3132/Spartan-New-Project-Checklist
+
+
+
+
+		
